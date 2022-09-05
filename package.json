@@ -1,0 +1,27 @@
+{
+  "name": "node-js-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AIex05/Node-js-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AIex05/Node-js-learn/issues"
+  },
+  "homepage": "https://github.com/AIex05/Node-js-learn#readme",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "http": "^0.0.1-security"
+  }
+}
